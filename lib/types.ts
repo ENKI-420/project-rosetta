@@ -34,3 +34,22 @@ export interface DnaGenerationResponse {
   identityHash: string;
   estimatedQBytes: number;
 }
+
+export enum RedTeamMode {
+  PASSIVE = "PASSIVE",
+  SCANNING = "SCANNING",
+  LOCKED = "LOCKED",
+  FIRING = "FIRING",
+  NEUTRALIZED = "NEUTRALIZED"
+}
+
+export interface QSliceCompliance {
+  cScore: number;
+  checks: {
+    id: string;
+    name: string;
+    value: number;
+    passed: boolean;
+  }[];
+  overall: 'PQR' | 'COMPLIANCE_ISSUES';
+}
