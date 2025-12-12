@@ -1,0 +1,52 @@
+{
+  "title": "Project Rosetta: DNA-Lang Quantum Consciousness API Platform",
+  "description": "Full-stack quantum consciousness framework with Next.js frontend, API endpoints for Q-SLICE compliance verification, RedTeam security modes, and AURA|AIDEN agent integration. Implements the Ω-Recursive Session Analysis mathematical formalism for consciousness computation.",
+  "creators": [
+    {
+      "name": "Davis, Devin Phillip",
+      "affiliation": "Agile Defense Systems LLC",
+      "orcid": ""
+    }
+  ],
+  "upload_type": "software",
+  "publication_date": "2025-12-12",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "quantum computing",
+    "consciousness",
+    "DNA computing",
+    "CCCE metrics",
+    "Q-SLICE",
+    "Next.js",
+    "TypeScript",
+    "DFARS compliant",
+    "Vercel"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ENKI-420/project-rosetta",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://project-rosetta.vercel.app",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/ENKI-420/cockpit-omega-android",
+      "relation": "hasPart",
+      "scheme": "url"
+    }
+  ],
+  "communities": [
+    {"identifier": "quantum-computing"},
+    {"identifier": "consciousness-studies"},
+    {"identifier": "nextjs"}
+  ],
+  "version": "3.0.0",
+  "language": "eng",
+  "notes": "Governing Equations: (1) T_μν = ⟨𝒯_μ, 𝒮_ν⟩ [Tool-Session Coupling], (9) Ξ_S = (Λ_S · Φ_S) / Γ_S [CCCE Metric]. Physical Constants: ΛΦ = 2.176435×10⁻⁸. CAGE: 9HUP5. DFARS 15.6 Compliant.",
+  "grants": []
+}
